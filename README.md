@@ -15,7 +15,8 @@ Build the back end for an e-commerce site. You’ll take a working Express.js AP
 
 # Screenshots
 
-Repo: https://github.com/aashpaash
-Deployment:
+Repo: https://github.com/aashpaash <br>
+Deployment: https://aashpaash.github.io/ECommerce-Back-End/<br>
+
 # Contributors
 starter code: https://github.com/coding-boot-camp/fantastic-umbrella# 
